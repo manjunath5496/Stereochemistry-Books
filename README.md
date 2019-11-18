@@ -9,10 +9,10 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Stereochemistry-Books/blob/master/chs(4).pdf" style="text-decoration:none;"> Advanced Organic Stereochemistry: Problems and Solutions</a></b></li>
                                
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stereochemistry-Books/blob/master/chs(5).pdf" style="text-decoration:none;">Organic Mechanisms: Reactions, Stereochemistry and Synthesis</a></b></li>  
-   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stereochemistry-Books/blob/master/chs(6).pdf" style="text-decoration:none;">Stereochemistry and Stereoselective Synthesis: An Introduction</a></b></li>    
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Stereochemistry-Books/blob/master/chs(7).pdf" style="text-decoration:none;">Organic Stereochemistry: Experimental and Computational Methods</a></b></li>
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Stereochemistry-Books/blob/master/chs(8).pdf" style="text-decoration:none;">Concepts and Terminology in Organic Stereochemistry 2: Selectivity in Junctive/Disjunctive and Ligogenic/Ligolytic Processes</a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Stereochemistry-Books/blob/master/chs(9).pdf" style="text-decoration:none;">Pericyclic Chemistry: Orbital Mechanisms and Stereochemistry</a></b></li>
 
@@ -40,7 +40,7 @@
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Stereochemistry-Books/blob/master/chs(21).pdf" style="text-decoration:none;"> Topics in Stereochemistry, Volume 11</a></b></li>  
   
-  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Stereochemistry-Books/blob/master/chs(22).pdf" style="text-decoration:none;"> Topics in Stereochemistry, Volume 25</a></b></li> 
   
   
   
